@@ -21,131 +21,124 @@ cell: (203) 945-8606
 
 ### Resume
 
-Max Plomer
+#### Max Plomer
 
 maxplomer@gmail.com   ●   codingprojects.co   ●   203-945-8606   ●   New York, NY
 
-Education
+#### Education
 
-App Academy
+App Academy<br>
+Sept 2014 - Nov 2014<br>
+Coding Bootcamp in New York, NY<br>
 
-Sept 2014 - Nov 2014
-
-Coding Bootcamp in New York, NY
-
-
-University of Connecticut
-
-Completed May 2013
-
-Master of Science in Mechanical Engineering, GPA: 3.5/4.0
+University of Connecticut<br>
+Completed May 2013<br>
+Master of Science in Mechanical Engineering, GPA: 3.5/4.0<br>
 
 
-University of Connecticut
-
-Completed Dec 2010
-
-Bachelor of Science in Mechanical Engineering
+University of Connecticut<br>
+Completed Dec 2010<br>
+Bachelor of Science in Mechanical Engineering<br>
 
 
-Experience
-The Psalm of Howard Thurman Documentary Film
-Apr 2015 - May 2015
-Boston, MA
-   ●   Used Adobe Muse to generate the most cutting-edge single-page flat user interface
-   ●   Deployed Adobe Muse app in hosting environment that supports PHP server-side scripting
-   ●   Explored many template and design technologies, such as Twitter Bootstrap templates and scratch coding CSS/JS
-   ●   Helped refine content and customize Muse template to best tell the story of Howard Thurman
-   ●   Staging URL => http://www.jsbox.com/howardthurman
+#### Experience
+The Psalm of Howard Thurman Documentary Film<br>
+Apr 2015 - May 2015<br>
+Boston, MA<br>
+   ●   Used Adobe Muse to generate the most cutting-edge single-page flat user interface<br>
+   ●   Deployed Adobe Muse app in hosting environment that supports PHP server-side scripting<br>
+   ●   Explored many template and design technologies, such as Twitter Bootstrap templates and scratch coding CSS/JS<br>
+   ●   Helped refine content and customize Muse template to best tell the story of Howard Thurman<br>
+   ●   Staging URL => http://www.jsbox.com/howardthurman<br>
 
-Free Fundraise.com
-Mar 2015 - May 2015
-Boston, MA
-   ●   Engineered API-driven Backbone.js app enabling you to shop and give the advertising affiliate fees generated to the charity of your choice
-   ●   Designed and programmed user interface in Backbone.js with carousels built on jQuery fading methods
-   ●   Allowed users to either select a featured charity, or to explore all, which adds a selected charity to the featured collection as well as activating it for donations
-   ●   Integrated charity tracking-ids into each unique set of query string parameters required by Amazon, eBay and FlexOffers affiliate programs
+Free Fundraise.com<br>
+Mar 2015 - May 2015<br>
+Boston, MA<br>
+   ●   Engineered API-driven Backbone.js app enabling you to shop and give the advertising affiliate fees generated to the charity of your choice<br>
+   ●   Designed and programmed user interface in Backbone.js with carousels built on jQuery fading methods<br>
+   ●   Allowed users to either select a featured charity, or to explore all, which adds a selected charity to the featured collection as well as activating it for donations<br>
+   ●   Integrated charity tracking-ids into each unique set of query string parameters required by Amazon, eBay and FlexOffers affiliate programs<br>
 
-Outlearn.com
-Jan 2015 - Feb 2015
-Boston, MA
-   ●   Researched technical training topics and formatted content into prototype format
-   ●   Integrated with GitHub through importation of repositories and allowing login using GitHub account
-   ●   Experimented with JavaScript Fancytree library, a dynamic tree view plugin for jQuery, to display imported contents
-   ●   Engineered advanced coding challenges using RSpec tests for Ruby and Jasmine tests for JavaScript
-   ●   Created interactive terminal sessions for Ruby, JavaScript and PHP using jq-console, a jQuery plugin
+Outlearn.com<br>
+Jan 2015 - Feb 2015<br>
+Boston, MA<br>
+   ●   Researched technical training topics and formatted content into prototype format<br>
+   ●   Integrated with GitHub through importation of repositories and allowing login using GitHub account<br>
+   ●   Experimented with JavaScript Fancytree library, a dynamic tree view plugin for jQuery, to display imported contents<br>
+   ●   Engineered advanced coding challenges using RSpec tests for Ruby and Jasmine tests for JavaScript<br>
+   ●   Created interactive terminal sessions for Ruby, JavaScript and PHP using jq-console, a jQuery plugin<br>
 
-Westport, CT and World Maker Faires
-Apr 2014 (Westport) and Sept 2014 (World)
-Westport, CT and New York, NY
-   ●   Presented the science behind my software package Clean Fuel Chemical Kinetics and how it can be used to model clean fuels in the engines of tomorrow
-   ●   Articulated reaction rate and Lagrange multiplier problems to teach science and math to faire attendees
+Westport, CT and World Maker Faires<br>
+Apr 2014 (Westport) and Sept 2014 (World)<br>
+Westport, CT and New York, NY<br>
+   ●   Presented the science behind my software package Clean Fuel Chemical Kinetics and how it can be used to model clean fuels in the engines of tomorrow<br>
+   ●   Articulated reaction rate and Lagrange multiplier problems to teach science and math to faire attendees<br>
 
-Saigeworks LLC
-May 2014
-Trumbull, CT
-   ●   Utilized my chemical kinetics software to transform inventor’s hands-on experience into concrete engineering terms
-   ●   Determined that 2.4 kJ of work and 3.3 kJ of heat for methane, and 3.0 kJ of work and 5.1 kJ of heat for hydrogen, was produced in one cycle per gram of fuel and oxygen at stoichiometric ratio
+Saigeworks LLC<br>
+May 2014<br>
+Trumbull, CT<br>
+   ●   Utilized my chemical kinetics software to transform inventor’s hands-on experience into concrete engineering terms<br>
+   ●   Determined that 2.4 kJ of work and 3.3 kJ of heat for methane, and 3.0 kJ of work and 5.1 kJ of heat for hydrogen, was produced in one cycle per gram of fuel and oxygen at stoichiometric ratio<br>
 
-University of Connecticut
-Jan 2011 - Dec 2012
-Storrs, CT
-   ●   Teaching Assistant for Combustion, Compressible Flow, Renewable Energy, and Senior Design Project classes
+University of Connecticut<br>
+Jan 2011 - Dec 2012<br>
+Storrs, CT<br>
+   ●   Teaching Assistant for Combustion, Compressible Flow, Renewable Energy, and Senior Design Project classes<br>
 
-Projects
-Carbon Footprint.co
-May 2015
-github.com/maxplomer/carbon-calculator
-   ●   Architected AngularJS app that performs carbon footprint calculation and persists data to Ruby on Rails back-end
-   ●   Added user authentication using the angular-devise service, and charted user progress with the angular-charts component
-   ●   Sent result of footprint calculation, coded in Ruby, to the AngularJS front-end via API as an attribute in the ActiveModel Serializer
+#### Projects
+Carbon Footprint.co<br>
+May 2015<br>
+github.com/maxplomer/carbon-calculator<br>
+   ●   Architected AngularJS app that performs carbon footprint calculation and persists data to Ruby on Rails back-end<br>
+   ●   Added user authentication using the angular-devise service, and charted user progress with the angular-charts component<br>
+   ●   Sent result of footprint calculation, coded in Ruby, to the AngularJS front-end via API as an attribute in the ActiveModel Serializer<br>
 
-Andrew Talty.tv
-Apr 2015
-github.com/maxplomer/andrewtaltytv
-   ●   Used jquery-tubular plugin to display a responsive YouTube video in the background of a TV producer’s Ruby on Rails portfolio page
-   ●   Detected client’s browser type using JavaScript’s navigator object, then displayed a still image background for mobile devices
-   ●   Created a subtle effect by blurring social media and video control buttons using the text-shadow CSS attribute
+Andrew Talty.tv<br>
+Apr 2015<br>
+github.com/maxplomer/andrewtaltytv<br>
+   ●   Used jquery-tubular plugin to display a responsive YouTube video in the background of a TV producer’s Ruby on Rails portfolio page<br>
+   ●   Detected client’s browser type using JavaScript’s navigator object, then displayed a still image background for mobile devices<br>
+   ●   Created a subtle effect by blurring social media and video control buttons using the text-shadow CSS attribute<br>
 
-JavaScript Sandbox.com
-Dec 2014
-github.com/maxplomer/javascript_sandbox
-   ●   Constructed online code testing environment using Ruby on Rails and Backbone.js, great for evaluating HTML, CSS and JavaScript code in the browser
-   ●   Architected user authentication using a current_user Rails controller and corresponding current_user Backbone.js Model
-   ●   Selected the Bootstrap navbar component to create an intuitive site navigation
+JavaScript Sandbox.com<br>
+Dec 2014<br>
+github.com/maxplomer/javascript_sandbox<br>
+   ●   Constructed online code testing environment using Ruby on Rails and Backbone.js, great for evaluating HTML, CSS and JavaScript code in the browser<br>
+   ●   Architected user authentication using a current_user Rails controller and corresponding current_user Backbone.js Model<br>
+   ●   Selected the Bootstrap navbar component to create an intuitive site navigation<br>
 
-Real Estate Tracker.co
-Dec 2014
-github.com/maxplomer/real_estate_tracker
-   ●   Presented complex financial analyses for investment properties using instantly updating forms and compelling diagrams
-   ●   Communicated data to API using jQuery Ajax requests from within the Ruby on Rails rendered view
+Real Estate Tracker.co<br>
+Dec 2014<br>
+github.com/maxplomer/real_estate_tracker<br>
+   ●   Presented complex financial analyses for investment properties using instantly updating forms and compelling diagrams<br>
+   ●   Communicated data to API using jQuery Ajax requests from within the Ruby on Rails rendered view<br>
 
-Coding Challenges.co
-Nov 2014
-github.com/maxplomer/coding_challenges
-   ●   Enlisted Ruby on Rails to create a community where users can compete and boost their programming skills
-   ●   Harnessed Ace high performance code-editor to deliver code syntax highlighting for Ruby, JavaScript and SQL
-   ●   Jailed user-submitted code as to only permit safe method calls
+Coding Challenges.co<br>
+Nov 2014<br>
+github.com/maxplomer/coding_challenges<br>
+   ●   Enlisted Ruby on Rails to create a community where users can compete and boost their programming skills<br>
+   ●   Harnessed Ace high performance code-editor to deliver code syntax highlighting for Ruby, JavaScript and SQL<br>
+   ●   Jailed user-submitted code as to only permit safe method calls<br>
 
-Bit Chart.co
-Nov 2014
-github.com/maxplomer/finance-clone
-   ●   Built stock investing competition application using Ruby on Rails and Backbone.js; a pure Rails version was also created
-   ●   Applied Heroku scheduler and market_beat ruby gem to save stock market quotes to a PostgreSQL database
-   ●   Graphed user portfolio performance using Highcharts pure JavaScript library; calculated chart data using algorithm optimized for least SQL queries
+Bit Chart.co<br>
+Nov 2014<br>
+github.com/maxplomer/finance-clone<br>
+   ●   Built stock investing competition application using Ruby on Rails and Backbone.js; a pure Rails version was also created<br>
+   ●   Applied Heroku scheduler and market_beat ruby gem to save stock market quotes to a PostgreSQL database<br>
+   ●   Graphed user portfolio performance using Highcharts pure JavaScript library; calculated chart data using algorithm optimized for least SQL queries<br>
 
-Clean Fuel Chemical Kinetics
-June 2013 - Dec 2013 
-combustionhelp.com
-   ●   Programmed simplified chemical kinetics software package in MATLAB; a version using hybrid of GNU Octave and Fortran was also created
-   ●   Investigated CHEMKIN-II mechanism format, Arrhenius/Lindeman/Troe form reactions, calculating thermodynamic data from NASA polynomials, programming language speeds and license costs
-   ●   Applied MATLAB profiler to improve program inefficiencies; time to converge constant volume reactor with methane fuel was reduced from 619 sec to 0.8 sec
+Clean Fuel Chemical Kinetics<br>
+June 2013 - Dec 2013 <br>
+combustionhelp.com<br>
+   ●   Programmed simplified chemical kinetics software package in MATLAB; a version using hybrid of GNU Octave and Fortran was also created<br>
+   ●   Investigated CHEMKIN-II mechanism format, Arrhenius/Lindeman/Troe form reactions, calculating thermodynamic data from NASA polynomials, programming language speeds and license costs<br>
+   ●   Applied MATLAB profiler to improve program inefficiencies; time to converge constant volume reactor with methane fuel was reduced from 619 sec to 0.8 sec<br>
 
-Technology Skills
-Languages  =>  Ruby, JavaScript, HTML, CSS, SQL, MATLAB, C, Fortran
-Tools  =>  Ruby on Rails, jQuery, AngularJS, Backbone.js, Ember.js, Git, Linux, AWS, Heroku
-Hobbies  =>  Raspberry Pi, Unity3D Game Engine, Surfing, Biking
-Favorite Ruby Gems  =>  rest-client, whenever
+#### Technology Skills
+Languages  =>  Ruby, JavaScript, HTML, CSS, SQL, MATLAB, C, Fortran<br>
+Tools  =>  Ruby on Rails, jQuery, AngularJS, Backbone.js, Ember.js, Git, Linux, AWS, Heroku<br>
+Hobbies  =>  Raspberry Pi, Unity3D Game Engine, Surfing, Biking<br>
+Favorite Ruby Gems  =>  rest-client, whenever<br>
 
 
 
