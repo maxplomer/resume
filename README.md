@@ -22,20 +22,31 @@ cell: (203) 945-8606
 ### Resume
 
 Max Plomer
+
 maxplomer@gmail.com   ●   codingprojects.co   ●   203-945-8606   ●   New York, NY
 
 Education
+
 App Academy
+
 Sept 2014 - Nov 2014
+
 Coding Bootcamp in New York, NY
 
-University of Connecticut
-Completed May 2013
-Master of Science in Mechanical Engineering, GPA: 3.5/4.0
 
 University of Connecticut
+
+Completed May 2013
+
+Master of Science in Mechanical Engineering, GPA: 3.5/4.0
+
+
+University of Connecticut
+
 Completed Dec 2010
+
 Bachelor of Science in Mechanical Engineering
+
 
 Experience
 The Psalm of Howard Thurman Documentary Film
