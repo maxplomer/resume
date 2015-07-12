@@ -226,25 +226,25 @@ For example [1, 5, 2, 4] would return true because [1, 2] + [5, 4] = [6, 6]
 
 <b> Engineering Projects </b><br>
 
-- <a href="https://github.com/maxplomer/engineering_projects/cfd_hws">CFD Projects, Fortran Linear equation solver, heat conduction, heat convection</a>
+- <a href="https://github.com/maxplomer/engineering_projects/tree/master/cfd_hws">CFD Projects, Fortran Linear equation solver, heat conduction, heat convection</a>
 <br><br>
-- <a href="https://github.com/maxplomer/engineering_projects/cfd_nozzle_analysis">CFD Analysis of a Super Sonic Nozzle</a>
+- <a href="https://github.com/maxplomer/engineering_projects/tree/master/cfd_nozzle_analysis">CFD Analysis of a Super Sonic Nozzle</a>
 <br><br>
-- <a href="https://github.com/maxplomer/engineering_projects/dynamics_earth_moon">Dynamics - Simulation of Motion of Earth and Moon Around the Sun</a>
+- <a href="https://github.com/maxplomer/engineering_projects/tree/master/dynamics_earth_moon">Dynamics - Simulation of Motion of Earth and Moon Around the Sun</a>
 <br><br>
-- <a href="https://github.com/maxplomer/engineering_projects/dynamics_rigidbody">Dynamics - Stability of Rigidbody</a>
+- <a href="https://github.com/maxplomer/engineering_projects/tree/master/dynamics_rigidbody">Dynamics - Stability of Rigidbody</a>
 <br><br>
-- <a href="https://github.com/maxplomer/engineering_projects/hcci">Homogeneous Charge Compression Ignition Engine Analysis</a>
+- <a href="https://github.com/maxplomer/engineering_projects/tree/master/hcci">Homogeneous Charge Compression Ignition Engine Analysis</a>
 <br><br>
-- <a href="https://github.com/maxplomer/engineering_projects/javascript_reaction_rates">Simple Javascript Reaction Rates App</a>
+- <a href="https://github.com/maxplomer/engineering_projects/tree/master/javascript_reaction_rates">Simple Javascript Reaction Rates App</a>
 <br><br>
-- <a href="https://github.com/maxplomer/engineering_projects/plasma_spray_coating">Plasma Spray Coatings Research for Pratt and Whitney</a>
+- <a href="https://github.com/maxplomer/engineering_projects/tree/master/plasma_spray_coating">Plasma Spray Coatings Research for Pratt and Whitney</a>
 <br><br>
-- <a href="https://github.com/maxplomer/engineering_projects/psr">Unsteady Perfectly Stirred Reactor Analysis</a>
+- <a href="https://github.com/maxplomer/engineering_projects/tree/master/psr">Unsteady Perfectly Stirred Reactor Analysis</a>
 <br><br>
-- <a href="https://github.com/maxplomer/engineering_projects/solar_thermal">Effect of Environmental Temperature on Efficiency of Solar Thermal Power Plants</a>
+- <a href="https://github.com/maxplomer/engineering_projects/tree/master/solar_thermal">Effect of Environmental Temperature on Efficiency of Solar Thermal Power Plants</a>
 <br><br>
-- <a href="https://github.com/maxplomer/engineering_projects/stefan_problem">Stefan Problem - Moving Boundary Problem</a>
+- <a href="https://github.com/maxplomer/engineering_projects/tree/master/stefan_problem">Stefan Problem - Moving Boundary Problem</a>
 
 &#32;
 &#32;
