@@ -19,7 +19,9 @@ cell: (203) 945-8606
 
 
 
-# Resume
+# Resume 
+<a href="https://github.com/maxplomer/resume/blob/master/max_plomer_resume.docx?raw=true">download docx</a>
+
 
 #### Max Plomer
 
