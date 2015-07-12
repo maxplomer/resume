@@ -1,4 +1,4 @@
-### Welcome to my portfolio/resume repo
+# Welcome to my portfolio/resume repo
 
 I have recently mastered the skills to be a professional web developer through the ultra-selective App Academy and I am ready to contribute on day one to a wide range of technologies.  
 
@@ -19,7 +19,7 @@ cell: (203) 945-8606
 
 
 
-### Resume
+# Resume
 
 #### Max Plomer
 
@@ -147,7 +147,7 @@ Favorite Ruby Gems  =>  rest-client, whenever<br>
 
 
 
-### Extra Projects
+# Extra Projects
 
 <b> Small Web Development Repos: </b><br>
 
