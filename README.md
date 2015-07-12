@@ -189,8 +189,8 @@ Favorite Ruby Gems  =>  rest-client, whenever<br>
 - <a href="https://github.com/maxplomer/css-bootstrap">css-bootstrap</a> - This project involves adding Twitter Bootstrap to a basic Rails project and using the bootstrap classes to add new style and functionality to the application.
 
 - <a href="https://github.com/maxplomer/backbone-newsreader-app">backbone newsreader app</a>
-&#32;
-&#32;
+
+<br>
 <b> Small Web Development Gists: </b><br>
 
 - <a href="https://gist.github.com/maxplomer/286abdf320ec3b67798c">Options Choices List generator</a> - options choices list - Generate all the possible combinations of a given number of choices and options to choose from. Fully optimized using binary and, great tool to solve many problems.  For example if you have 2 options and 3 choices the result would be:
