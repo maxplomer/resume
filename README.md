@@ -274,7 +274,7 @@ The pseudo-code for the algorithm is as follows:
 
 - <a href="https://github.com/maxplomer/engineering_projects/pi_case/pi_case.fcstd">FreeCAD file of case I designed</a>
 
-  <img src="https://github.com/maxplomer/engineering_projects/pi_case/picase.png">
+  <img src="https://github.com/maxplomer/engineering_projects/blob/master/picase/picase.png">
 
 &#32;
 &#32;
