@@ -283,7 +283,6 @@ The pseudo-code for the algorithm is as follows:
 
 <b>Unity3d Game - Predator Drone Tactics: </b><br>
 
-Download Demo
-http://github.com/maxplomer/engineering_projects/unity3d/demo.zip
+<a href="https://github.com/maxplomer/engineering_projects/blob/master/unity3d/demo.zip?raw=true">Download Demo</a>
  
 - I created the user interface for a turn-based Unity3d game.  Created a system where as you can move your character by clicking on cubes that represent points on a grid.  When you fire the tank cannon or the plane's missle and they reach their final targets in a very realistic way.  
