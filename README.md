@@ -19,47 +19,45 @@ cell: (203) 945-8606
 
 
 
-### Resume
+### YAML Resume
 
-    other resume formats in 
+    Info: { name: Max Plomer,  email: maxplomer@gmail.com,  website: codingprojects.co,  phone: 203-945-8606,  location: New York NY }
 
-Info: { name: Max Plomer,  email: maxplomer@gmail.com,  website: codingprojects.co,  phone: 203-945-8606,  location: New York NY }
+    Education:
+     - { school: App Academy,  description: Coding Bootcamp in New York NY,  dates: Sept 2014 - Nov 2014 }
 
-Education:
- - { school: App Academy,  description: Coding Bootcamp in New York NY,  dates: Sept 2014 - Nov 2014 }
+     - { school: University of Connecticut,  degree: Master of Science in Mechanical Engineering (GPA 3.5/4.0),  completed: May 2013 }
 
- - { school: University of Connecticut,  degree: Master of Science in Mechanical Engineering (GPA 3.5/4.0),  completed: May 2013 }
+     - { school: University of Connecticut,  degree: Bachelor of Science in Mechanical Engineering,  completed: Dec 2010 }
 
- - { school: University of Connecticut,  degree: Bachelor of Science in Mechanical Engineering,  completed: Dec 2010 }
+    Experience:
+     - { company: The Psalm of Howard Thurman Documentary Film,  location: Boston MA,  dates: Apr 2015 - May 2015, highlights: [
+    'Used Adobe Muse to generate the most cutting-edge single-page flat user interface',
+    'Deployed Adobe Muse app in hosting environment that supports PHP server-side scripting',
+    'Explored many template and design technologies, such as Twitter Bootstrap templates and scratch coding CSS/JS',
+    'Helped refine content and customize Muse template to best tell the story of Howard Thurman',
+    'Staging URL => http://www.jsbox.com/howardthurman ]}
 
-Experience:
- - { company: The Psalm of Howard Thurman Documentary Film,  location: Boston MA,  dates: Apr 2015 - May 2015, highlights: [
-'Used Adobe Muse to generate the most cutting-edge single-page flat user interface',
-'Deployed Adobe Muse app in hosting environment that supports PHP server-side scripting',
-'Explored many template and design technologies, such as Twitter Bootstrap templates and scratch coding CSS/JS',
-'Helped refine content and customize Muse template to best tell the story of Howard Thurman',
-'Staging URL => http://www.jsbox.com/howardthurman ]}
+     - { company: Free Fundraise.com,  location: Boston MA,  dates: Mar 2015 - May 2015, highlights: [
+    'Engineered API-driven Backbone.js app enabling you to shop and give the advertising affiliate fees generated to the charity of your choice',
+    'Designed and programmed user interface in Backbone.js with carousels built on jQuery fading methods',
+    'Allowed users to either select a featured charity, or to explore all, which adds a selected charity to the featured collection as well as activating it for donations',
+    'Integrated charity tracking-ids into each unique set of query string parameters required by Amazon, eBay and FlexOffers affiliate programs' ]}
 
- - { company: Free Fundraise.com,  location: Boston MA,  dates: Mar 2015 - May 2015, highlights: [
-'Engineered API-driven Backbone.js app enabling you to shop and give the advertising affiliate fees generated to the charity of your choice',
-'Designed and programmed user interface in Backbone.js with carousels built on jQuery fading methods',
-'Allowed users to either select a featured charity, or to explore all, which adds a selected charity to the featured collection as well as activating it for donations',
-'Integrated charity tracking-ids into each unique set of query string parameters required by Amazon, eBay and FlexOffers affiliate programs' ]}
+     - { company: Outlearn.com,  location: Boston MA,  dates: Jan 2015 - Feb 2015, highlights: [
+    'Researched technical training topics and formatted content into prototype format',
+    'Integrated with GitHub through importation of repositories and allowing login using GitHub account',
+    'Experimented with JavaScript Fancytree library, a dynamic tree view plugin for jQuery, to display imported contents',
+    'Engineered advanced coding challenges using RSpec tests for Ruby and Jasmine tests for JavaScript',
+    'Created interactive terminal sessions for Ruby, JavaScript and PHP using jq-console, a jQuery plugin' ]}
 
- - { company: Outlearn.com,  location: Boston MA,  dates: Jan 2015 - Feb 2015, highlights: [
-'Researched technical training topics and formatted content into prototype format',
-'Integrated with GitHub through importation of repositories and allowing login using GitHub account',
-'Experimented with JavaScript Fancytree library, a dynamic tree view plugin for jQuery, to display imported contents',
-'Engineered advanced coding challenges using RSpec tests for Ruby and Jasmine tests for JavaScript',
-'Created interactive terminal sessions for Ruby, JavaScript and PHP using jq-console, a jQuery plugin' ]}
+     - { company: Westport CT and World Maker Faires,  location: Westport CT and New York NY, dates: Apr 2014 (Westport) and Sept 2014 (World),  highlights: [
+    'Presented the science behind my software package Clean Fuel Chemical Kinetics and how it can be used to model clean fuels in the engines of tomorrow',
+    'Articulated reaction rate and Lagrange multiplier problems to teach science and math to faire attendees' ]}
 
- - { company: Westport CT and World Maker Faires,  location: Westport CT and New York NY, dates: Apr 2014 (Westport) and Sept 2014 (World),  highlights: [
-'Presented the science behind my software package Clean Fuel Chemical Kinetics and how it can be used to model clean fuels in the engines of tomorrow',
-'Articulated reaction rate and Lagrange multiplier problems to teach science and math to faire attendees' ]}
-
- - { company: Saigeworks LLC,  location: Trumbull CT,  date: May 2014,  highlights: [
-'Utilized my chemical kinetics software to transform inventor’s hands-on experience into concrete engineering terms',
-'Determined that 2.4 kJ of work and 3.3 kJ of heat for methane, and 3.0 kJ of work and 5.1 kJ of heat for hydrogen, was produced in one cycle per gram of fuel and oxygen at stoichiometric ratio' ]}
+     - { company: Saigeworks LLC,  location: Trumbull CT,  date: May 2014,  highlights: [
+    'Utilized my chemical kinetics software to transform inventor’s hands-on experience into concrete engineering terms',
+    'Determined that 2.4 kJ of work and 3.3 kJ of heat for methane, and 3.0 kJ of work and 5.1 kJ of heat for hydrogen, was produced in one cycle per gram of fuel and oxygen at stoichiometric ratio' ]}
 
  - { company: University of Connecticut,  location: Storrs CT,  dates: Jan 2011 - Dec 2012,  highlights: [
 'Teaching Assistant for Combustion, Compressible Flow, Renewable Energy, and Senior Design Project classes' ]}
