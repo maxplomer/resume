@@ -12,7 +12,7 @@ Sincerely,
 
 Max Plomer
 
-email: maxplomer@gmail.com
+email: maxplomer@gmail.com<br>
 cell: (203) 945-8606 
 
 
