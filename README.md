@@ -272,9 +272,9 @@ The pseudo-code for the algorithm is as follows:
 
 - <a href="https://gist.github.com/maxplomer/d5b4df7a74e08335b939">pi camera code</a> - This is the code that my button.py code calls to takes pictures for 20 seconds
 
-- <a href="https://gist.github.com/maxplomer/63bbd806a568b28a6fdb">button python code</a> - This is the code that I attach to my raspberry pi's crontab so that it runs at startup
+- <a href="https://gist.github.com/maxplomer/63bbd806a568b28a6fdb">button python code</a> - This is the code that is attach to the raspberry pi's crontab so that it runs at startup
 
-- <a href="https://github.com/maxplomer/engineering_projects/pi_case/pi_case.fcstd">FreeCAD file of case I designed</a>
+- <a href="https://github.com/maxplomer/engineering_projects/blob/master/picase/pi_case.fcstd?raw=true">FreeCAD file of case designed</a>
 
   <img src="https://github.com/maxplomer/engineering_projects/blob/master/picase/picase.png">
 
