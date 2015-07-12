@@ -149,7 +149,7 @@ Favorite Ruby Gems  =>  rest-client, whenever<br>
 
 # Extra Projects
 
-<b> Small Web Development Repos: </b><br>
+<b> Small Web Development Repos </b><br>
 
 
 - <a href="https://github.com/maxplomer/ruby-chess/">Ruby Chess</a> - I really like the way I declared DELTAS_DIAGONAL and DELTAS_ORTHOGONAL constants. Then all piece moves are derived from them.
@@ -191,7 +191,7 @@ Favorite Ruby Gems  =>  rest-client, whenever<br>
 - <a href="https://github.com/maxplomer/backbone-newsreader-app">backbone newsreader app</a>
 
 <br>
-<b> Small Web Development Gists: </b><br>
+<b> Small Web Development Gists </b><br>
 
 - <a href="https://gist.github.com/maxplomer/286abdf320ec3b67798c">Options Choices List generator</a> - options choices list - Generate all the possible combinations of a given number of choices and options to choose from. Fully optimized using binary and, great tool to solve many problems.  For example if you have 2 options and 3 choices the result would be:
 
@@ -218,13 +218,13 @@ For example [1, 5, 2, 4] would return true because [1, 2] + [5, 4] = [6, 6]
 
 
 
-### Chemical Kinetics Software
+<b> Chemical Kinetics Software </b><br>
 
 - <a href="http://www.combustionhelp.com">combustionhelp.com</a> - Clean Fuel Chemical Kinetics package
 
 
 
-### Engineering Projects
+<b> Engineering Projects </b><br>
 
 - <a href="https://github.com/maxplomer/engineering_projects/cfd_hws">CFD Projects, Fortran Linear equation solver, heat conduction, heat convection</a>
 <br><br>
@@ -281,6 +281,7 @@ The pseudo-code for the algorithm is as follows:
 
 <b>Unity3d Game - Predator Drone Tactics: </b><br>
 
-- <a href="https://github.com/maxplomer/engineering_projects/unity3d/demo.zip">DOWNLOAD DEMO</a> - 
-- 
+Download Demo
+http://github.com/maxplomer/engineering_projects/unity3d/demo.zip
+ 
 - I created the user interface for a turn-based Unity3d game.  Created a system where as you can move your character by clicking on cubes that represent points on a grid.  When you fire the tank cannon or the plane's missle and they reach their final targets in a very realistic way.  
