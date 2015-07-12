@@ -219,13 +219,6 @@ For example [1, 5, 2, 4] would return true because [1, 2] + [5, 4] = [6, 6]
 
 
 
-
-<b> Chemical Kinetics Software </b><br>
-
-- <a href="http://www.combustionhelp.com">combustionhelp.com</a> - Clean Fuel Chemical Kinetics package
-
-
-
 <b> Engineering Projects </b><br>
 
 - <a href="https://github.com/maxplomer/engineering_projects/tree/master/cfd_hws">CFD Projects, Fortran Linear equation solver, heat conduction, heat convection</a>
