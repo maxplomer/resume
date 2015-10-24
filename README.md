@@ -97,6 +97,15 @@ Storrs, CT<br>
    ●   Teaching Assistant for Combustion, Compressible Flow, Renewable Energy, and Senior Design Project classes<br>
 
 #### Projects
+
+Ember Todo App<br>
+Sept 2015<br>
+github.com/maxplomer/ember-todo<br>
+   ●   Instead of using ember-data, data is synced between Ember.js frontend and Rails backend using AJAX calls containing an array of todos<br>
+   ●   The list of todos is store as serialized data to a single ActiveRecord model instance<br>
+   ●   One route is an 'index' API that, and the other is create<br>
+   ●   Increased Ember.js build timeout to fix Heroku deployment glitch<br>
+
 Carbon Footprint.co<br>
 May 2015<br>
 github.com/maxplomer/carbon-calculator<br>
