@@ -169,6 +169,7 @@ Favorite Ruby Gems  =>  rest-client, whenever<br>
 
 <b> Small Web Development Repos </b><br>
 
+- <a href="https://github.com/maxplomer/interview_coding_challenges/">Interview Coding Challenges</a> - A collection of coding challenges to practice for interviews.
 
 - <a href="https://github.com/maxplomer/ruby-chess/">Ruby Chess</a> - I really like the way I declared DELTAS_DIAGONAL and DELTAS_ORTHOGONAL constants. Then all piece moves are derived from them.
 
