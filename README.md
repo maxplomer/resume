@@ -1,10 +1,10 @@
 # Welcome to my portfolio/resume repo
 
-I have recently mastered the skills to be a professional web developer through the ultra-selective App Academy and I am ready to contribute on day one to a wide range of technologies.  
+I have recently mastered the skills to be a professional web developer through the ultra-selective App Academy and I am ready to contribute on day one to a wide range of technologies.  I have had the pleasure of learning from former Google employees, venture capitalists, and a whole bunch of other great entrepreneurs and coders.
 
 I have a mechanical engineering background and love heat transfer, but now I’m excited about transferring JSON data to your API.  I am passionate about finding the most concise solution to your problem to help bootstrap your project and bring your MVP to market.  I’m proficient in both front-end JavaScript and CSS as well as back-end Ruby on Rails and API architecture.  I will strive to not only complete the task, but also clearly document and communicate the logic and path taken to the finished product.
 
-My most current app, www.carbonfootprint.co, uses AngularJS and Ruby on Rails to track your carbon footprint as you make a more sustainable lifestyle.  Before that, I engineered an app using Backbone.js for a social venture, www.freefundraise.com; two entrepreneurs who wanted to use affiliate dollars to help children, oceans and forests.
+One of my portfolio apps, www.carbonfootprint.co, uses AngularJS and Ruby on Rails to track your carbon footprint as you make a more sustainable lifestyle.  Before that, I engineered an app using Backbone.js for a social venture, www.freefundraise.com; two entrepreneurs who wanted to use affiliate dollars to help children, oceans and forests.  In my most current paid work, which uses the Volt Framework, I was set with the task of learning a new technology and had to solve problems like unfinished features (reset password), gem conflicts (had to manually set a dependecy as lower version).  I was able to optimize the real-time Volt app with a complicated data/model structure.
 
 Please feel free to contact me if you want to take your company to the next level!
 
@@ -44,6 +44,15 @@ Bachelor of Science in Mechanical Engineering<br>
 
 
 #### Experience
+Gramercy Consultants<br>
+July 2015 - Present<br>
+New York, NY<br>
+   ●   Created a [next-gen?] great user experience for commercial real-estate brokers with HTML JS frontend, and crafted straight-forward [custom?] JSON API routes for the frontend to consume customized to the needs of the frontend<br>
+   ●   Created secure[API driven?] digital-documents feature using Stripe API to process payments, and <br>
+   ●   x<br>
+   ●   Analyzed project problem  proposal/statement and evaluated /had to analyze the problem and choose the best solution<br>
+   ●   x<br>
+
 The Psalm of Howard Thurman Documentary Film<br>
 Apr 2015 - May 2015<br>
 Boston, MA<br>
