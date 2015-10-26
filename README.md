@@ -102,7 +102,7 @@ Sept 2015<br>
 github.com/maxplomer/ember-todo<br>
    ●   Instead of using Ember Data to manage model data, AJAX calls containing an array of todos are used to keep data synced between the Ember.js front-end and Rails back-end<br>
    ●   List of todos stored as serialized data on a text attribute of a single ActiveRecord model instance<br>
-   ●   Deployed Ember.js app on Heroku using ember-cli-rails; increased build timeout to fix Heroku glitch<br>
+   ●   Deployed Ember.js app on Heroku using ember-cli-rails gem; increased build timeout to fix Heroku glitch<br>
 
 Carbon Footprint.co<br>
 May 2015<br>
