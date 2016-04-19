@@ -47,10 +47,10 @@ Bachelor of Science in Mechanical Engineering<br>
 Robert Half Consulting<br>
 Feb 2016 - Present<br>
 New York, NY<br>
-   Project: Truveris / OneRx.com
-   ●   Worked with UX/UI team at a pharmaceutical software company correcting React.js app to mock-ups and troubleshooting responsive design elements in a very complex mobile-friendly frontend with lots of inherited CSS classes
-   ●   Investigated design interaction and implemented integration between map and list React.js components by creating a custom event on the window object, when user hovered over item in list the associated google maps marker bounces twice and comes to front of markers
-   ●   Created a React.js text input component to fix the placeholder text disappearing on focus glitch for Internet Explorer versions 10 and 11, as this was an important design interaction
+   Project: Truveris / OneRx.com<br>
+   ●   Worked with UX/UI team at a pharmaceutical software company correcting React.js app to mock-ups and troubleshooting responsive design elements in a very complex mobile-friendly frontend with lots of inherited CSS classes<br>
+   ●   Investigated design interaction and implemented integration between map and list React.js components by creating a custom event on the window object, when user hovered over item in list the associated google maps marker bounces twice and comes to front of markers<br>
+   ●   Created a React.js text input component to fix the placeholder text disappearing on focus glitch for Internet Explorer versions 10 and 11, as this was an important design interaction<br>
 
 Gramercy Consultants<br>
 July 2015 - December 2015<br>
