@@ -43,6 +43,15 @@ Bachelor of Science in Mechanical Engineering<br>
 
 
 #### Experience
+
+Robert Half Consulting<br>
+Feb 2016 - Present<br>
+New York, NY<br>
+   ●   Project: Truveris
+   ●   Worked with UX UI team correcting app to mock ups, and troubleshooting responsive design elements, in a very complex mobile-friendly frontend with lots of inherited CSS classes
+   ●   Invested design and implemented integration between map and list components, when user hovered over item in List the associated google maps marker bounces twice, and comes to front of markers
+   ●   Created a very modular React component to fix the placeholder text disappearing on focus for Internet Explorer versions 10 and 11, as this was an important design/interaction to have 
+
 Gramercy Consultants<br>
 July 2015 - December 2015<br>
 New York, NY<br>
@@ -96,6 +105,12 @@ Storrs, CT<br>
    ●   Teaching Assistant for Combustion, Compressible Flow, Renewable Energy, and Senior Design Project classes<br>
 
 #### Projects
+
+Volt Framework Prototypes (The Volt Ruby framework, voltframework.com, is great for rapid prototyping of web apps.  It combines MongoDB, WebSockets, Opal Ruby-to-JavaScript converter):<br>
+   ●   Investing App - dokku , best practices for deployment on AWS and Githubpages and environment variables.  Uses Volt as backend API and Angular2 for frontend<br>
+   ●   Quick Calculator - Simple Online Calculator that show recent calcuations, evaluates equations safetly in the browser, uses Volt built-in flash alerts ("We were unable to evaluate your equation!" error message)<br>
+   ●   Simple Public Timeline - Uses Volt backend as a Proxy server to effectively call the Twitter API gem from client browser<br>
+   ●   Volt Todo App - Low Fidelity Todo that explores project structure, inputs/textareas update realtime, call JavaScript methods <br>
 
 Ember.js Todo App<br>
 Sept 2015<br>
