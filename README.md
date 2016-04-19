@@ -110,7 +110,7 @@ Volt Framework Prototypes<br>
 The Volt Ruby framework (voltframework.com) is great for rapid prototyping of web apps.  It integrates MongoDB, WebSocket, and Opal Ruby-to-JavaScript converter right out of the box.<br>
    App: Investing App [backend: github.com/maxplomer/investing_rest_api, frontend: github.com/maxplomer/investing_angular2]<br>
    ●   Uses Volt as backend API and Angular2 for frontend to show 10 recent stock trades<br>
-   ●   Deployed Ruby backend using Dokku an open source Platform as a Service and GitHub Pages to host Angular2 frontend<br>
+   ●   Deployed Ruby backend using Dokku an open source Platform as a Service; GitHub Pages is used to host Angular2 frontend<br>
    ●   Modified Volt Http Controller to add Access-Control-Allow-Origin header to response<br>
    App: Quick Calculator [github.com/maxplomer/quick_calc]<br>
    ●   Simple Online Calculator that show recent calculations, evaluates equations safely in the browser<br>
