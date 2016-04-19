@@ -116,7 +116,7 @@ The Volt Ruby framework (voltframework.com) is great for rapid prototyping of we
    ●   Simple Online Calculator that show recent calcuations, evaluates equations safetly in the browser<br>
    ●   Uses Volt built-in flash alerts to display "We were unable to evaluate your equation!" error message<br>
    App: Simple Public Timeline [github.com/maxplomer/simple_public_timeline]<br>
-   ●   Effectively uses Volt backend as a Proxy server to call the Twitter API via the Twitter Ruby gem from client browser<br>
+   ●   Effectively uses Volt backend as a proxy server between client browser and Twitter API via the Twitter Ruby gem from client browser<br>
    ●   An asynchronous test was created that calls the get_tweets task and ensures it returns an array of proper length<br>
    App: Volt Todo App [github.com/maxplomer/volt-tutorial]<br>
    ●   Low fidelity todo app that explores project structure using database associations (Project has many Tasks, Task has many Items)<br>
