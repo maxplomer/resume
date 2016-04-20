@@ -68,7 +68,7 @@ Boston, MA<br>
    ●   Deployed Adobe Muse app in hosting environment that supports PHP server-side scripting<br>
    ●   Explored many template and design technologies, such as Twitter Bootstrap templates and scratch coding CSS/JS<br>
    ●   Helped refine content and customize Muse template to best tell the story of Howard Thurman<br>
-   ●   Staging URL => http://www.jsbox.co/howardthurman<br>
+   ●   URL => http://www.howardthurmanfilm.com<br>
 
 Free Fundraise.com<br>
 Mar 2015 - May 2015<br>
