@@ -114,7 +114,7 @@ The Volt Ruby framework (voltframework.com) is great for rapid prototyping of we
    ●   Modified Volt HTTP Controller to add Access-Control-Allow-Origin header to response<br>
    App: Quick Calculator [github.com/maxplomer/quick_calc]<br>
    ●   Simple online calculator that shows recent calculations, evaluates equation safely in the browser<br>
-   ●   Uses Volt built-in flash alerts to display "We were unable to evaluate your equation!" error message<br>
+   ●   Utilized Volt's built-in flash alerts to display "We were unable to evaluate your equation!" error message<br>
    App: Simple Public Timeline [github.com/maxplomer/simple_public_timeline]<br>
    ●   Effectively uses Volt backend as a proxy server between client browser and Twitter API via the Twitter Ruby gem<br>
    ●   An asynchronous test was created that calls the get_tweets task and ensures it returns an array of proper length<br>
