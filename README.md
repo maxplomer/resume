@@ -123,7 +123,7 @@ The Volt Ruby framework (voltframework.com) is great for rapid prototyping of we
    ●   Inputs and textareas are saved/updated in real-time<br>
    ●   Evaluate JavaScript, such as calls to confirm() method, directly in back-ticks (``) when no Opal/Ruby method is given<br>
    App: Exploration of NYC Event API [github.com/maxplomer/api_explorer]<br>
-   ●   Built app for App Academy Hackathon that explores different routes of the NYC Event API
+   ●   Built app for App Academy hackathon that explores different routes of the NYC Event API
 
 Ember.js Todo App<br>
 Sept 2015<br>
