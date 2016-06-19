@@ -70,13 +70,14 @@ Boston, MA<br>
    ●   Helped refine content and customize Muse template to best tell the story of Howard Thurman<br>
    ●   URL => http://www.howardthurmanfilm.com<br>
 
-Free Fundraise.com<br>
+Free Fundraise<br>
 Mar 2015 - May 2015<br>
 Boston, MA<br>
    ●   Engineered API-driven Backbone.js app enabling you to shop and give the advertising affiliate fees generated to the charity of your choice<br>
    ●   Designed and programmed user interface in Backbone.js with carousels built on jQuery fading methods<br>
    ●   Allowed users to either select a featured charity, or to explore all, which adds a selected charity to the featured collection as well as activating it for donations<br>
    ●   Integrated charity tracking-ids into each unique set of query string parameters required by Amazon, eBay and FlexOffers affiliate programs<br>
+   ●   Staging URL => http://aidtheplanet.herokuapp.com<br>
 
 Outlearn.com<br>
 Jan 2015 - Feb 2015<br>
