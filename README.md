@@ -45,7 +45,7 @@ Bachelor of Science in Mechanical Engineering<br>
 #### Experience
 
 Robert Half Consulting<br>
-Feb 2016 - Present<br>
+Feb 2016 - March 2016<br>
 New York, NY<br>
    Project: Truveris / OneRx.com<br>
    ●   Collaborated with UX/UI team at a pharmaceutical software company correcting React.js app to mock-ups and troubleshooting responsive design elements in a mobile-friendly frontend with complex CSS inheritance<br>
