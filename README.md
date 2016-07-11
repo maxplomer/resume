@@ -183,7 +183,7 @@ combustionhelp.com<br>
 
 #### Technology Skills
 Languages  =>  Ruby, JavaScript, HTML, CSS, SQL, MATLAB, C, Fortran<br>
-Tools  =>  Ruby on Rails, jQuery, AngularJS, Backbone.js, Ember.js, Git, Linux, AWS, Heroku<br>
+Tools  =>  Ruby on Rails, jQuery, React, AngularJS, Backbone.js, Ember.js, Bootstrap, Ratchet CSS Framework, Git, Linux, AWS, Heroku<br>
 Hobbies  =>  Raspberry Pi, Unity3D Game Engine, Surfing, Biking<br>
 Favorite Ruby Gems  =>  rest-client, whenever<br>
 
