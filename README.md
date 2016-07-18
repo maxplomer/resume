@@ -191,6 +191,13 @@ Favorite Ruby Gems  =>  rest-client, whenever<br>
 
 
 
+# App Academy Performance
+
+I am happy to report that during my App Academy experience I got perfect on every single timed in-person exam.  Including the last exam on CSS, which was quite a feat, beacuse everyone including me was busy working on their final projects (mine was bitchart.co).  I basically ended up memorizing 100's of lines of CSS in a single night and learned new things about the ability of the human brain.
+
+![alt text](Max_Plomer-App_Academy_performance.png "App Academy Performance")
+
+
 
 
 
