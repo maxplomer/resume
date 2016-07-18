@@ -197,6 +197,16 @@ I am happy to report that during my App Academy experience I got perfect on ever
 
 ![alt text](Max_Plomer-App_Academy_performance.png "App Academy Performance")
 
+Exam Topics:
+a00 - Prep work
+a01 - Ruby Coding Challenges (ex: fibonacci)
+a02 - Build Card Game in Ruby
+a03 - SQL and Ruby on Rails Associations
+a04 - Ruby on Rails CRUD and Authentication
+a05 - JavaScript
+a06 - Backbone
+a07 - CSS
+
 
 
 
