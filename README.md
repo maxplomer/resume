@@ -191,26 +191,6 @@ Favorite Ruby Gems  =>  rest-client, whenever<br>
 
 
 
-# App Academy Performance
-
-I am happy to report that during my App Academy experience I got perfect on every single timed in-person exam.  Including the last exam on CSS, which was quite a feat, beacuse everyone including me was busy working on their final projects (mine was bitchart.co).  I basically ended up memorizing 100's of lines of CSS in a single night and learned new things about the ability of the human brain.
-
-![alt text](Max_Plomer-App_Academy_performance.png "App Academy Performance")
-
-Exam Topics:<br>
-a00 - Prep work<br>
-a01 - Ruby Coding Challenges (ex: fibonacci)<br>
-a02 - Build Card Game in Ruby<br>
-a03 - SQL and Ruby on Rails Associations<br>
-a04 - Ruby on Rails CRUD and Authentication<br>
-a05 - JavaScript<br>
-a06 - Backbone<br>
-a07 - CSS<br>
-
-
-
-
-
 # Extra Projects
 
 <b> Small Web Development Repos </b><br>
@@ -342,3 +322,24 @@ The pseudo-code for the algorithm is as follows:
 <a href="https://github.com/maxplomer/engineering_projects/blob/master/unity3d/demo.zip?raw=true">Download Demo</a>
  
 - I created the user interface for a turn-based Unity3d game.  Created a system where as you can move your character by clicking on cubes that represent points on a grid.  When you fire the tank cannon or the plane's missle and they reach their final targets in a very realistic way.  
+
+# App Academy Performance
+
+I am happy to report that during my App Academy experience I got perfect on every single timed in-person exam.  Including the last exam on CSS, which was quite a feat, beacuse everyone including me was busy working on their final projects (mine was bitchart.co).  I basically ended up memorizing 100's of lines of CSS in a single night and learned new things about the ability of the human brain.
+
+![alt text](Max_Plomer-App_Academy_performance.png "App Academy Performance")
+
+Exam Topics:<br>
+a00 - Prep work<br>
+a01 - Ruby Coding Challenges (ex: fibonacci)<br>
+a02 - Build Card Game in Ruby<br>
+a03 - SQL and Ruby on Rails Associations<br>
+a04 - Ruby on Rails CRUD and Authentication<br>
+a05 - JavaScript<br>
+a06 - Backbone<br>
+a07 - CSS<br>
+
+
+
+
+
