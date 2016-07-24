@@ -195,6 +195,20 @@ Favorite Ruby Gems  =>  rest-client, whenever<br>
 
 <b> Small Web Development Repos </b><br>
 
+- <a href="https://github.com/maxplomer/react_notebook/">React Notebook</a> - A simple note taking app made using React.js framework.
+
+- <a href="https://github.com/maxplomer/react_heap/">React Heap</a> - This is an experiment into heaps using the React.js framework.
+
+- <a href="https://github.com/maxplomer/volt_hipster_cat/">Volt Hipster Cat</a> - Is the beginning of a GUI for the <a href="https://github.com/maxplomer/hipster_cat/">Hipster Cat</a> project.  Very nice use of Volt framework models.
+
+- <a href="https://github.com/maxplomer/hipster_cat/">Hipster Cat</a> - Hipster Cat is a prototype pure Ruby game that leans heavily on OOP design to create a virtual world where a user can adopt cats, get a job, move from the suburbs to Brooklyn or LA, even take their cat for a walk if they choose. It’s a playground for fun Ruby code; for instance, using a Gaussian distribution to give cats up for adoption an average age of 8 with standard deviation of 2 years.
+
+- <a href="https://github.com/maxplomer/square_fractal/">Square Fractal CSS Demo</a> - This is trying out a CSS design that would be a traditional front page of a technology business.
+
+- <a href="https://github.com/maxplomer/coach_ghana/">Coach Ghana</a> - This is a site that uses the Bourbon CSS framework. Forms are submitted without a backend, sent directly to site admin's email.
+
+- <a href="https://github.com/maxplomer/general_coding_challenges/">General Coding Challenges</a> - A collection of coding challenges mainly in Matlab and a few in Ruby done in preparation for App Academy.
+
 - <a href="https://github.com/maxplomer/interview_coding_challenges/">Interview Coding Challenges</a> - A collection of coding challenges to practice for interviews.
 
 - <a href="https://github.com/maxplomer/ruby-chess/">Ruby Chess</a> - I really like the way I declared DELTAS_DIAGONAL and DELTAS_ORTHOGONAL constants. Then all piece moves are derived from them.
