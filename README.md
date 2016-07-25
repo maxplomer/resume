@@ -109,21 +109,21 @@ Storrs, CT<br>
 
 Volt Framework Prototypes<br>
 The Volt Ruby framework (voltframework.com) is great for rapid prototyping of web apps.  It integrates MongoDB, WebSocket, and Opal Ruby-to-JavaScript converter right out of the box.<br>
-   App: Investing App [backend: github.com/maxplomer/investing_rest_api, frontend: github.com/maxplomer/investing_angular2]<br>
+   **App: Investing App** [backend: github.com/maxplomer/investing_rest_api, frontend: github.com/maxplomer/investing_angular2]<br>
    ●   Uses Volt as backend API and Angular2 for frontend to show 10 recent stock trades<br>
    ●   Deployed Ruby backend using Dokku an open source Platform as a Service; GitHub Pages is used to host Angular2 frontend<br>
    ●   Modified Volt HTTP Controller to add Access-Control-Allow-Origin header to response<br>
    App: Quick Calculator [github.com/maxplomer/quick_calc]<br>
    ●   Simple online calculator that shows recent calculations, evaluates equation safely in the browser<br>
    ●   Utilized Volt's built-in flash alerts to display "We were unable to evaluate your equation!" error message<br>
-   App: Simple Public Timeline [github.com/maxplomer/simple_public_timeline]<br>
+   **App: Simple Public Timeline** [github.com/maxplomer/simple_public_timeline]<br>
    ●   Effectively uses Volt backend as a proxy server between client browser and Twitter API via the Twitter Ruby gem<br>
    ●   An asynchronous test was created that calls the get_tweets task and ensures it returns an array of proper length<br>
-   App: Volt Todo App [github.com/maxplomer/volt-tutorial]<br>
+   **App: Volt Todo App** [github.com/maxplomer/volt-tutorial]<br>
    ●   Low fidelity todo app that explores project structure using database associations (Project has many Tasks, Task has many Items)<br>
    ●   Inputs and textareas are saved/updated in real-time<br>
    ●   Evaluate JavaScript, such as calls to confirm() method, directly in back-ticks (``) when no Opal/Ruby method is given<br>
-   App: Exploration of NYC Event API [github.com/maxplomer/api_explorer]<br>
+   **App: Exploration of NYC Event API** [github.com/maxplomer/api_explorer]<br>
    ●   Built app for App Academy hackathon that explores different routes of the NYC Event API
 
 Ember.js Todo App<br>
