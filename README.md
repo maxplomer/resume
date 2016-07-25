@@ -300,7 +300,7 @@ For example [1, 5, 2, 4] would return true because [1, 2] + [5, 4] = [6, 6]
 
 &#32;
 &#32;
-
+<a name="raspberrypi"></a>
 <b>Raspberry Pi based GoPRO: </b><br>
 
 I am also have a proof of concept for a project that involves using a 3D printer to print a waterproof Raspberry Pi case that holds the Pi unit, camera, as well as a battery and wires to connect to a button that activates the time-lapse photo command.  I use crontab to run a python script at start up, which waits for a voltage change indicated by a button being pressed.  The trick is that the time-lapse photo command is actually sent when the button is released, because I have built in that if you hold the button down for 5 seconds then the computer turns itself off.  
