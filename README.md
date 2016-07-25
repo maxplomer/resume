@@ -113,7 +113,7 @@ The Volt Ruby framework (voltframework.com) is great for rapid prototyping of we
    ●   Uses Volt as backend API and Angular2 for frontend to show 10 recent stock trades<br>
    ●   Deployed Ruby backend using Dokku an open source Platform as a Service; GitHub Pages is used to host Angular2 frontend<br>
    ●   Modified Volt HTTP Controller to add Access-Control-Allow-Origin header to response<br>
-   App: Quick Calculator [github.com/maxplomer/quick_calc]<br>
+   **App: Quick Calculator** [github.com/maxplomer/quick_calc]<br>
    ●   Simple online calculator that shows recent calculations, evaluates equation safely in the browser<br>
    ●   Utilized Volt's built-in flash alerts to display "We were unable to evaluate your equation!" error message<br>
    **App: Simple Public Timeline** [github.com/maxplomer/simple_public_timeline]<br>
