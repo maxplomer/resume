@@ -8,18 +8,18 @@ One of my portfolio apps, www.carbonfootprint.co, uses AngularJS and Ruby on Rai
 
 Please feel free to contact me if you want to take your company to the next level!
 
-Sincerely, 
+Sincerely,
 
 Max Plomer
 
 email: maxplomer@gmail.com<br>
-cell: (203) 945-8606 
+cell: (203) 945-8606
 
 
 
 
 
-# Resume 
+# Resume
 <a href="https://github.com/maxplomer/resume/blob/master/max_plomer_resume.docx?raw=true">download docx</a>
 
 
@@ -43,6 +43,13 @@ Bachelor of Science in Mechanical Engineering<br>
 
 
 #### Experience
+
+Pluralsight Author<br>
+July 2015 - Present<br>
+Remote<br>
+   ●   Created sample course titled "Calling a Ruby gem from the browser in Volt framework" for new author application
+   ●   Created course proposal about advanced UX/UI components in React.js that was approved
+   ●   Using video editing skills, teaching experience and previous React.js consulting experience to best present topic of UX/UI components with React and Redux
 
 Robert Half Consulting<br>
 Feb 2016 - March 2016<br>
@@ -260,7 +267,7 @@ Favorite Ruby Gems  =>  rest-client, whenever<br>
 
 - <a href="https://gist.github.com/maxplomer/85f3d426663be63b237c">Test first ruby HW</a> - These are my answers to test first ruby, uploaded using my HW uploader.
 
-- <a href="https://gist.github.com/maxplomer/7789df5f428582478bf2">Sum of Pairs</a> - A fun coding challenge, I really like my solution.  The question is determine whether a given vector can be split up into 2 vectors so that when you add both vectors together it is a vector of all the same number. 
+- <a href="https://gist.github.com/maxplomer/7789df5f428582478bf2">Sum of Pairs</a> - A fun coding challenge, I really like my solution.  The question is determine whether a given vector can be split up into 2 vectors so that when you add both vectors together it is a vector of all the same number.
 
 For example [1, 5, 2, 4] would return true because [1, 2] + [5, 4] = [6, 6]
 
@@ -313,10 +320,10 @@ The pseudo-code for the algorithm is as follows:
         1 is added to button_counter
         the variable take_photo is set to 1
         If button_counter exceeds 50, the command “sudo shutdown –h now” is sent to the system
-  
+
       If NOT pressed:
         button_counter is set to zero
-        if take_photo equals one, then we set it to zero, and send command to system to run time lapse command. 
+        if take_photo equals one, then we set it to zero, and send command to system to run time lapse command.
 
 
 
@@ -334,7 +341,7 @@ The pseudo-code for the algorithm is as follows:
 <b>Unity3d Game - Predator Drone Tactics: </b><br>
 
 <a href="https://github.com/maxplomer/engineering_projects/blob/master/unity3d/demo.zip?raw=true">Download Demo</a>
- 
+
 - I created the user interface for a turn-based Unity3d game.  Created a system where as you can move your character by clicking on cubes that represent points on a grid.  When you fire the tank cannon or the plane's missle and they reach their final targets in a very realistic way.  
 
 # App Academy Performance
@@ -352,8 +359,3 @@ a04 - Ruby on Rails CRUD and Authentication<br>
 a05 - JavaScript<br>
 a06 - Backbone<br>
 a07 - CSS<br>
-
-
-
-
-
