@@ -54,8 +54,8 @@ Robert Half Consulting<br>
 Sept - Oct 2016 (Mango Concept) and Feb - March 2016 (Truveris)<br>
 New York, NY<br>
    Project: Mango Concept / ClipNinja.com<br>
-   ●   Finished the API started by previous consultant and built a frontend to access it using HTML/CSS/React, also handled all deployment of the app on Heroku
-   ●   Integrate Auth0 authentication in order to quickly allow login via email or Facebook login, as well as reset password. Make synchronous API call in custom field validator function to make sure username is unique
+   ●   Finished the API started by previous consultant and built a frontend to access it using HTML/CSS/React, also handled all deployment of the app on Heroku<br>
+   ●   Integrate Auth0 authentication in order to quickly allow login via email or Facebook login, as well as reset password. Make synchronous API call in custom field validator function to make sure username is unique<br>
    ●   Architected system to use Amazon S3 to store video clips and user generated videos, and on the Rails server making a system call to FFmpeg (the leading multimedia framework)
    Project: Truveris / OneRx.com<br>
    ●   Collaborated with UX/UI team at a pharmaceutical software company correcting React.js app to mock-ups and troubleshooting responsive design elements in a mobile-friendly frontend with complex CSS inheritance<br>
