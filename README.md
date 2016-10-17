@@ -56,7 +56,7 @@ New York, NY<br>
    Project: Mango Concept / ClipNinja.com<br>
    ●   Finished the API started by previous consultant and built a frontend to access it using HTML / CSS / React.js, also handled all deployment of the app on Heroku<br>
    ●   Integrate Auth0 authentication in order to quickly allow login via email or Facebook, as well as reset password.  Make synchronous API call in custom field validator function to make sure username is unique.  Decode JavaScript Web Token on backend<br>
-   ●   Architected system to use Amazon S3 to store video clips and user generated videos, and on the Rails server making a system call to FFmpeg (the leading multimedia framework)
+   ●   Architected system to use Amazon S3 to store video clips and user-generated videos, and on Ruby on Rails server making system calls to FFmpeg (the leading multimedia framework)
    Project: Truveris / OneRx.com<br>
    ●   Collaborated with UX/UI team at a pharmaceutical software company correcting React.js app to mock-ups and troubleshooting responsive design elements in a mobile-friendly frontend with complex CSS inheritance<br>
    ●   Investigated design interaction and implemented integration between map and list components by creating a custom event on the window object, when user hovered over item in list the associated Google Maps marker bounces twice and comes to front of markers<br>
