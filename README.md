@@ -43,12 +43,12 @@ Bachelor of Science in Mechanical Engineering<br>
 
 #### Experience
 
-Pluralsight Author<br>
+<!--Pluralsight Author<br>
 July 2015 - Present<br>
 Remote<br>
    ●   Created sample course titled "Calling a Ruby gem from the browser in Volt framework" for new author application
    ●   Authored course proposal about advanced UX/UI components in React.js that was approved
-   ●   Using video editing skills, teaching experience and previous React.js consulting experience to best present topic of UX/UI components with React and Redux
+   ●   Using video editing skills, teaching experience and previous React.js consulting experience to best present topic of UX/UI components with React and Redux-->
 
 Robert Half Consulting<br>
 Sept - Oct 2016 (Mango Concept) and Feb - March 2016 (Truveris)<br>
