@@ -46,14 +46,14 @@ Bachelor of Science in Mechanical Engineering<br>
 Mango Concept<br>
 Sept 2016 - Present<br>
 New York, NY<br>
-   ●   At Mango Concept we build apps and websites, drive traffic to them, and in the processs collaborate with talented entrepeneurs and companies.  We also maintain, optimize and/or redesign exiting websites; I manage the Nyfa.org website and oversee the rebuilding and redesigning of it.<br>
+   ●   At Mango Concept we build apps and websites, drive traffic to them, and in the process collaborate with talented entrepreneurs and companies.  We also maintain, optimize and/or redesign exiting websites; I manage the Nyfa.org website and oversee the rebuilding and redesigning of it.<br>
 
    Subset of clients/projects:<br>
    ●   117 Music Group, American Friends of Hebrew University, Bee Populate, Cannibal Restaurants, Healthy Turtle, Hipercept, Katheryn Winnick, Matcha Bears, New York Foundation for the Arts, Paleo Passion Foods<br>
 
    Technology and acheievements:<br>
    ●   Wordpress - Built custom theme from underscores (https://underscores.me) starter theme, which is great because it has a sassify option which includes well organized files for all the starting styling.  Created Ruby script that calls Google Maps API to process store data from client so could import thousands of locations into store locator Wordpress plugin.  Modified puchased themes and imported content.  Maintained existing wordpress site with minimal downtime.<br>
-   ●   Rails - Engineered Spotify pre-save feature so fans could pre-save album to their Spotify account.  Did multiple mobile-friendly Sass styled sites from designer mockup, with features such as: save newsletter signup to database and display flash alert, superimpose game screenshot over iPhone and iPad outlines and have mobile responsive .<br>
+   ●   Ruby on Rails - Engineered Spotify pre-save feature so fans could pre-save album to their Spotify account.  Did multiple mobile-friendly Sass styled sites from designer mockup, with features such as: save newsletter signup to database and display flash alert, superimpose game screenshot over iPhone and iPad outlines and have mobile responsive .<br>
    ●   .NET - Implemented complete redesign on massive legacy .NET application.  Redid deployment system to simple Visual Studio export when bamboo cloud was discontinued.  Fixed authorize.net integration when older TLS version were discontinued by forcing in sets the security protocol TLS 1.2.  Reduced AWS bill by scaling down servers after identifying costly database queries.<br>
    ●   React.js - Used React.js to build components in an admin portal for an iPhone fitness coaching app.  Use create-react-app to program an "Encyclobeedia" using TweenMax and TweenLite components from the GSAP JavaScript library to power a page turning effect.<br>
 
