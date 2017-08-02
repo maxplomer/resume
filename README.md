@@ -52,17 +52,33 @@ Work one on one with talented entrepeneurs and companies.
 
 Maintaining optimizing redesiging and building websites.
 
-Clients projects: New York Foundation for the Arts, American Friends of Hebrew University, Cannibal Restaurants, Paleo Passion Foods, 117 Music Group, Healthy Turtle
+Clients projects: New York Foundation for the Arts, American Friends of Hebrew University, Cannibal Restaurants, Paleo Passion Foods, 117 Music Group, Healthy Turtle, Matcha Bears, Bee Populate
 
 <!-- technology / acheievement -->
 
 Technology and acheievements: Wordpress - built custom theme from underscores starter theme.  Built and modified existing themes.  Created Ruby script that calls Google Maps API to process store data from client so could import thousands of locations into store locator Wordpress plugin
 
-Rails - Built spotify pre-save feature so fans could pre-save album to their spotify account.
+Rails - Built spotify pre-save feature so fans could pre-save album to their spotify account.  (Match Bears) Did mobile-friendly Sass styled site from designer mock for a startup, saved newsletter signup to database.
 
-.NET - Implemented complete redesign on massive legacy .NET application.  Redid deployment system to simple Visual Studio export when bamboo cloud was discontinued.  Fixed authorize.net integration when older TLS version were discontinued by forcing in sets the security protocol TLS 1.2
+.NET - Implemented complete redesign on massive legacy .NET application.  Redid deployment system to simple Visual Studio export when bamboo cloud was discontinued.  Fixed authorize.net integration when older TLS version were discontinued by forcing in sets the security protocol TLS 1.2.  Reduced AWS bill by scaling down servers after identifying costly database queries.
 
-React.js - Used react to build components in an admin portal for an iphone fitness coaching app.
+React.js - Used react to build components in an admin portal for an iphone fitness coaching app.  Use create-react-app to built an 
+
+
+
+.net , redesigning pages in a .net app
+
+Wordpress underscores template , building out a Wordpress theme with best technology 
+
+
+React, 
+
+Rails + react
+
+Sass
+
+Aws 
+
 
 
    Project: ClipNinja.com<br>
