@@ -49,10 +49,10 @@ New York, NY<br>
    ●   At Mango Concept we build apps and websites, drive traffic to them, and in the processs collaborate with talented entrepeneurs and companies.  We also maintain, optimize and/or redesign exiting websites; I manage the Nyfa.org website and oversee the rebuilding and redesigning of it.<br>
 
    Subset of clients/projects:<br>
-   ●   117 Music Group, American Friends of Hebrew University, Bee Populate, Cannibal Restaurants, Healthy Turtle, Hipercept, Matcha Bears, New York Foundation for the Arts, Paleo Passion Foods<br>
+   ●   117 Music Group, American Friends of Hebrew University, Bee Populate, Cannibal Restaurants, Healthy Turtle, Hipercept, Katheryn Winnick, Matcha Bears, New York Foundation for the Arts, Paleo Passion Foods<br>
 
    Technology and acheievements:<br>
-   ●   Wordpress - Built custom theme from underscores starter theme.  Built and modified existing themes.  Created Ruby script that calls Google Maps API to process store data from client so could import thousands of locations into store locator Wordpress plugin.  Simple updates to wordpress websites for clients where can't afford any downtime<br>
+   ●   Wordpress - Built custom theme from underscores (https://underscores.me) starter theme, which is great because it has a sassify option which includes well organized files for all the starting styling.  Created Ruby script that calls Google Maps API to process store data from client so could import thousands of locations into store locator Wordpress plugin.  Modified existing themes.  Maintained existing wordpress site with simple updates to wordpress websites for clients where can't afford any downtime<br>
    ●   Rails - Built spotify pre-save feature so fans could pre-save album to their spotify account.  (Match Bears) Did mobile-friendly Sass styled site from designer mock for a startup, saved newsletter signup to database.<br>
    ●   .NET - Implemented complete redesign on massive legacy .NET application.  Redid deployment system to simple Visual Studio export when bamboo cloud was discontinued.  Fixed authorize.net integration when older TLS version were discontinued by forcing in sets the security protocol TLS 1.2.  Reduced AWS bill by scaling down servers after identifying costly database queries.<br>
    ●   React.js - Used react to build components in an admin portal for an iphone fitness coaching app.  Use create-react-app to built an "Encyclobeedia" using TweenMax and TweenLite components from the gsap package to power a page turning effect.<br>
