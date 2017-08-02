@@ -56,7 +56,7 @@ Clients projects: New York Foundation for the Arts, American Friends of Hebrew U
 
 <!-- technology / acheievement -->
 
-Technology and acheievements: Wordpress - built custom theme from underscores starter theme
+Technology and acheievements: Wordpress - built custom theme from underscores starter theme.  Built and modified existing themes.  Created Ruby script that calls Google Maps API to process store data from client so could import thousands of locations into store locator Wordpress plugin
 
 Rails - Built spotify pre-save feature so fans could pre-save album to their spotify account.
 
