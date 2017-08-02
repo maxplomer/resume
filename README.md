@@ -43,20 +43,34 @@ Bachelor of Science in Mechanical Engineering<br>
 
 #### Experience
 
-<!--Pluralsight Author<br>
-July 2015 - Present<br>
-Remote<br>
-   ●   Created sample course titled "Calling a Ruby gem from the browser in Volt framework" for new author application
-   ●   Authored course proposal about advanced UX/UI components in React.js that was approved
-   ●   Using video editing skills, teaching experience and previous React.js consulting experience to best present topic of UX/UI components with React and Redux-->
+Mango Concept<br>
+Sept 2016 - Present<br>
 
-Robert Half Consulting<br>
-Sept - Oct 2016 (Mango Concept) and Feb - March 2016 (Truveris)<br>
-New York, NY<br>
-   Project: Mango Concept / ClipNinja.com<br>
+
+
+Work one on one with talented entrepeneurs and companies.  
+
+Maintaining optimizing redesiging and building websites.
+
+Clients projects: New York Foundation for the Arts, American Friends of Hebrew University, Cannibal Restaurants, Paleo Passion Foods, 117 Music Group
+
+<!-- technology / acheievement -->
+
+Technology and acheievements: Wordpress - built custom theme from underscores starter theme
+
+Rails - Built spotify pre-save feature so fans could pre-save album to their spotify account.
+
+.NET - Implemented complete redesign on massive legacy .NET application.  Redid deployment system to simple Visual Studio export when bamboo cloud was discontinued.  Fixed authorize.net integration when older TLS version were discontinued by forcing in sets the security protocol TLS 1.2
+
+
+   Project: ClipNinja.com<br>
    ●   Finished the API started by previous consultant and built a frontend to access it using HTML / CSS / React.js, also handled all deployment of the app on Heroku<br>
    ●   Integrate Auth0 authentication in order to quickly allow login via email or Facebook, as well as reset password.  Make synchronous API call in custom field validator function to make sure username is unique.  Decode JavaScript Web Token on backend<br>
    ●   Architected system to use Amazon S3 to store video clips and user-generated videos (use 'aws-sdk' Ruby gem to transfer files), and on Ruby on Rails server making system calls to FFmpeg (the leading multimedia framework)
+
+Robert Half Consulting<br>
+Feb - March 2016<br>
+New York, NY<br>
    Project: Truveris / OneRx.com<br>
    ●   Collaborated with UX/UI team at a pharmaceutical software company correcting React.js app to mock-ups and troubleshooting responsive design elements in a mobile-friendly frontend with complex CSS inheritance<br>
    ●   Investigated design interaction and implemented integration between map and list components by creating a custom event on the window object, when user hovered over item in list the associated Google Maps marker bounces twice and comes to front of markers<br>
