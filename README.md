@@ -52,7 +52,7 @@ Work one on one with talented entrepeneurs and companies.
 
 Maintaining optimizing redesiging and building websites.
 
-Clients projects: New York Foundation for the Arts, American Friends of Hebrew University, Cannibal Restaurants, Paleo Passion Foods, 117 Music Group
+Clients projects: New York Foundation for the Arts, American Friends of Hebrew University, Cannibal Restaurants, Paleo Passion Foods, 117 Music Group, Healthy Turtle
 
 <!-- technology / acheievement -->
 
@@ -61,6 +61,8 @@ Technology and acheievements: Wordpress - built custom theme from underscores st
 Rails - Built spotify pre-save feature so fans could pre-save album to their spotify account.
 
 .NET - Implemented complete redesign on massive legacy .NET application.  Redid deployment system to simple Visual Studio export when bamboo cloud was discontinued.  Fixed authorize.net integration when older TLS version were discontinued by forcing in sets the security protocol TLS 1.2
+
+React.js - Used react to build components in an admin portal for an iphone fitness coaching app.
 
 
    Project: ClipNinja.com<br>
