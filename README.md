@@ -53,7 +53,7 @@ New York, NY<br>
 
    Technology and acheievements:<br>
    ●   Wordpress - Built custom theme from underscores (https://underscores.me) starter theme, which is great because it has a sassify option which includes well organized files for all the starting styling.  Created Ruby script that calls Google Maps API to process store data from client so could import thousands of locations into store locator Wordpress plugin.  Modified puchased themes and imported content.  Maintained existing wordpress site with minimal downtime.<br>
-   ●   Rails - Built spotify pre-save feature so fans could pre-save album to their spotify account.  (Match Bears) Did mobile-friendly Sass styled site from designer mock for a startup, saved newsletter signup to database.<br>
+   ●   Rails - Built spotify pre-save feature so fans could pre-save album to their spotify account.  Did multiple mobile-friendly Sass styled sites from designer mockup, with features such as: save newsletter signup to database and display flash alert, superimpose game screenshot over iphone and ipad outlines and have mobile responsive .<br>
    ●   .NET - Implemented complete redesign on massive legacy .NET application.  Redid deployment system to simple Visual Studio export when bamboo cloud was discontinued.  Fixed authorize.net integration when older TLS version were discontinued by forcing in sets the security protocol TLS 1.2.  Reduced AWS bill by scaling down servers after identifying costly database queries.<br>
    ●   React.js - Used react to build components in an admin portal for an iphone fitness coaching app.  Use create-react-app to built an "Encyclobeedia" using TweenMax and TweenLite components from the gsap package to power a page turning effect.<br>
 
