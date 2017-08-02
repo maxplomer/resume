@@ -46,7 +46,7 @@ Bachelor of Science in Mechanical Engineering<br>
 Mango Concept<br>
 Sept 2016 - Present<br>
 New York, NY<br>
-   ●   At Mango Concept we build apps and websites, drive traffic to them, and in the process collaborate with talented entrepreneurs and companies.  We also maintain, optimize and/or redesign exiting websites; I manage the Nyfa.org website and oversee the rebuilding and redesigning of it.<br>
+   ●   At Mango Concept we build apps and websites, drive traffic to them, and in the process collaborate with talented entrepreneurs and companies.  We also maintain, optimize and redesign exiting websites; I manage the Nyfa.org website and oversee the rebuilding and redesigning of it.<br>
 
    Subset of clients/projects:<br>
    ●   117 Music Group, American Friends of Hebrew University, Bee Populate, Cannibal Restaurants, Healthy Turtle, Hipercept, Katheryn Winnick, Matcha Bears, New York Foundation for the Arts, Paleo Passion Foods<br>
