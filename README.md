@@ -48,8 +48,8 @@ Sept 2016 - Present<br>
 New York, NY<br>
    ●   At Mango Concept we build apps and websites, drive traffic to them, and in the processs collaborate with talented entrepeneurs and companies.  We also maintain, optimize and/or redesign exiting websites; I manage the Nyfa.org website and oversee the rebuilding and redesigning of it.<br>
 
-   Clients projects:<br>
-   ●   New York Foundation for the Arts, American Friends of Hebrew University, Cannibal Restaurants, Paleo Passion Foods, 117 Music Group, Healthy Turtle, Matcha Bears, Bee Populate, Hipercept<br>
+   Subset of clients/projects:<br>
+   ●   117 Music Group, American Friends of Hebrew University, Bee Populate, Cannibal Restaurants, Healthy Turtle, Hipercept, Matcha Bears, New York Foundation for the Arts, Paleo Passion Foods<br>
 
    Technology and acheievements:<br>
    ●   Wordpress - Built custom theme from underscores starter theme.  Built and modified existing themes.  Created Ruby script that calls Google Maps API to process store data from client so could import thousands of locations into store locator Wordpress plugin.  Simple updates to wordpress websites for clients where can't afford any downtime<br>
