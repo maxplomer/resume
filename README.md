@@ -54,7 +54,7 @@ Sept 2016 - Present<br>
    ●   Wordpress - Built custom theme from underscores starter theme.  Built and modified existing themes.  Created Ruby script that calls Google Maps API to process store data from client so could import thousands of locations into store locator Wordpress plugin.  Simple updates to wordpress websites for clients where can't afford any downtime
    ●   Rails - Built spotify pre-save feature so fans could pre-save album to their spotify account.  (Match Bears) Did mobile-friendly Sass styled site from designer mock for a startup, saved newsletter signup to database.
    ●   .NET - Implemented complete redesign on massive legacy .NET application.  Redid deployment system to simple Visual Studio export when bamboo cloud was discontinued.  Fixed authorize.net integration when older TLS version were discontinued by forcing in sets the security protocol TLS 1.2.  Reduced AWS bill by scaling down servers after identifying costly database queries.
-   ●   React.js - Used react to build components in an admin portal for an iphone fitness coaching app.  Use create-react-app to built an 
+   ●   React.js - Used react to build components in an admin portal for an iphone fitness coaching app.  Use create-react-app to built an "Encyclobeedia" using TweenMax and TweenLite components from the gsap package to power a page turning effect.
 
    Project: ClipNinja.com<br>
    ●   Finished the API started by previous consultant and built a frontend to access it using HTML / CSS / React.js, also handled all deployment of the app on Heroku<br>
