@@ -66,18 +66,7 @@ React.js - Used react to build components in an admin portal for an iphone fitne
 
 
 
-.net , redesigning pages in a .net app
 
-Wordpress underscores template , building out a Wordpress theme with best technology 
-
-
-React, 
-
-Rails + react
-
-Sass
-
-Aws 
 
 
 
