@@ -25,7 +25,7 @@ cell: (203) 945-8606
 
 #### Max Plomer
 
-maxplomer@gmail.com   ●   codingprojects.co   ●   203-945-8606   ●   New York, NY
+maxplomer@gmail.com   ●   github.com/maxplomer/resume   ●   203-945-8606   ●   New York, NY
 
 #### Education
 
