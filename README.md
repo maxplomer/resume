@@ -48,7 +48,7 @@ Sept 2016 - Present<br>
 
 
 
-Work one on one with talented entrepeneurs and companies.  
+Work one on one with talented entrepeneurs and companies.   been working on a top of cool projects for mango concept, I manage the Nyfa.org website and we are rebuilding and redesigning it (redesign complete).
 
 Maintaining optimizing redesiging and building websites.
 
@@ -56,7 +56,9 @@ Clients projects: New York Foundation for the Arts, American Friends of Hebrew U
 
 <!-- technology / acheievement -->
 
-Technology and acheievements: Wordpress - built custom theme from underscores starter theme.  Built and modified existing themes.  Created Ruby script that calls Google Maps API to process store data from client so could import thousands of locations into store locator Wordpress plugin
+Technology and acheievements: 
+
+Wordpress - built custom theme from underscores starter theme.  Built and modified existing themes.  Created Ruby script that calls Google Maps API to process store data from client so could import thousands of locations into store locator Wordpress plugin
 
 Rails - Built spotify pre-save feature so fans could pre-save album to their spotify account.  (Match Bears) Did mobile-friendly Sass styled site from designer mock for a startup, saved newsletter signup to database.
 
